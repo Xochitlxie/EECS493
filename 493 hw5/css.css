@@ -1,0 +1,9 @@
+#myCanvas{
+    border:2px solid #000000;
+    width:300px;
+    height:300px;
+}
+
+#draw{
+    display:block;
+}   
