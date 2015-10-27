@@ -1,0 +1,68 @@
+@font-face{
+    font-family:Typing;
+    src:url('font/Typing_Dazedd.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:nor;
+    src:url('font/LicensePl8.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+body{
+    margin-top:0px;
+    text-align: center;
+}
+.contain{
+    font-family:nor;
+    margin-top:0px;
+    background-image: url(image/65558PICaMN_1024.jpg);
+    background-repeat: no-repeat;
+    width:1000px;
+    height: 600px;
+    background-size: 1000px 600px;
+    text-align: center;
+}
+
+.log-in{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.form{
+    margin:auto;
+    width:600px;
+    height:400px;
+    background: white;
+    opacity:0.9;
+    text-align: center;
+}
+#header{
+    padding-top:50px;
+    font-family: Typing;
+    font-weight:900;
+    font-size:50px;
+}
+#inputs{
+    margin-top:20px;
+    text-align:center;
+}
+#username{
+    font-size:20px;
+    width:300px;
+    height:45px;
+    display:inline;
+}
+#password{
+    font-size:20px;
+    width:300px;
+    height:45px;
+    display:inline;
+}
+#submit{
+    width:250px;
+    height:30px;
+    font-size: 15px;
+    font-weight:700;
+}

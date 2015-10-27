@@ -1,0 +1,62 @@
+@font-face{
+    font-family: Typing_Dazedd;
+    src: url('font/Typing_Dazedd.ttf');
+    font-weight: 900;
+    font-style:normal;
+}
+@font-face{
+	font-family: LicensePl8;
+	src: url('font/LicensePl8.ttf');
+	font-weight:500;
+	font-style:normal;
+}
+.container{
+	align: center;
+    background-image: url(image/rank-bg.jpg);
+    width:1000px;
+    height: 600px;
+    background-size: 1000px 600px;
+	padding-left: -15px;
+    text-align: center;
+}
+table{
+    text-align: center;
+    opacity: 0.7;
+    background: white;
+    width: 600px;
+    height: 400px;
+    margin-left: 200px;
+    padding-left: -30px;
+    font-family: impact;
+}
+h1{
+	padding-top: 60px;
+    text-align: center;
+    color: #F9F41B;
+    font-family: LicensePl8;
+    font-weight: 900;
+    font-size: 50px;
+}
+th {
+	text-align: center;
+    font-family: LicensePl8;
+    opacity: 1.0;
+    font-size: 45px;
+    font-weight: 900;
+    color: #FF00F5;
+    border-bottom-color: solid white;
+}
+tr {
+	text-align: center;
+	border-bottom-color: solid green;
+}
+td {
+	font-family: Typing_Dazedd;
+    opacity: 1.0;
+    font-size: 45px;
+    font-weight: 900;
+    color: black;
+}
+#header{
+    font:Typing_Dazedd;
+}
